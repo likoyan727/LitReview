@@ -32,7 +32,7 @@ References:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Question: How would quantum computing affect the development of programming languages in the future? 
+Question: How would quantum computing affect the development of programming languages in the future? 
 
 Quantum computing is poised to significantly impact the development of programming languages in several ways, given its fundamentally different approach to computation compared to classical computing. Here’s how quantum computing could shape programming languages in the future:
 1. New Programming Paradigms
@@ -92,7 +92,7 @@ References:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Question: How has the question of quantum computing's effect on programming languages been addressed in the past? 
+Question: How has the question of quantum computing's effect on programming languages been addressed in the past? 
 
 **1. Early Exploration and Foundational Concepts
 
@@ -130,7 +130,7 @@ Hidary, J. D., & Hidary, J. D. (2021). A brief history of quantum computing. Qua
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Question: What subfields of programming languages were responsible for exploring quantum programming?
+Question: What subfields of programming languages were responsible for exploring quantum programming?
 
 TThe exploration of quantum programming has involved contributions from several subfields of programming languages and related areas. Here’s a breakdown of the key subfields and their roles:
 **1. Theoretical Computer Science
@@ -181,7 +181,7 @@ Chong, F. T., Franklin, D., & Martonosi, M. (2017). Programming languages and co
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Question: Who were the most influential researchers on this topic?
+Question: Who were the most influential researchers on this topic?
 
 Several researchers have made significant contributions to the field of quantum programming and quantum computing. Here are some of the most influential figures:
 **1. Richard Feynman
